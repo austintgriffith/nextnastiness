@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Created with 🏗 scaffold-eth" />
       </Head>
 
-      <div className="flex items-center flex-col flex-grow pt-10">HELLO WORLD</div>
+      <div className="flex items-center flex-col flex-grow pt-10">HELLO TURDZ</div>
 
       <div className="flex items-center flex-col flex-grow pt-10">
         <AddressInput onChange={address => setToAddress(address)} value={toAddress} placeholder="Enter an address" />
